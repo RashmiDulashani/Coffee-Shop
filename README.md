@@ -11,7 +11,7 @@
 <h2>🚀 Technologies Used</h2>
 <ul>
       <li>HTML: Structured content and semantic elements.</li>
-      <li>CSS: Styling and responsive layout design.t</li>
+      <li>CSS: Styling and responsive layout design.</li>
       <li>JavaScript: Interactive elements and dynamic functionality.</li>
 </ul>
 
