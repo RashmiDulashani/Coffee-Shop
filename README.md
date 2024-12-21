@@ -1,5 +1,5 @@
 # ☕ Coffee-Shop
 <p>This is a modern, user-friendly website designed to showcase a coffee shop's offering and create a delightful browsing experience for users.</p>
-<div class=home-page width="300px">
-      <img src="README images/Home Page.png" alt="Home Page">
+<div class=home-page>
+      <img src="README images/Home Page.png" alt="Home Page" width="300px">
 </div>
